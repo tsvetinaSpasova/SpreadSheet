@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1560374555 source:c:\users\tsveti\desktop\oop\praktikum\spreadsheet\main.cpp
+	<iostream>
+	"SpreadSheet.h"
+	"Interface.h"
+
+1560249497 source:c:\users\tsveti\desktop\oop\praktikum\spreadsheet\src\cell.cpp
+	"Cell.h"
+
+1560278126 c:\users\tsveti\desktop\oop\praktikum\spreadsheet\include\cell.h
+	<iostream>
+	<fstream>
+
+1560373666 source:c:\users\tsveti\desktop\oop\praktikum\spreadsheet\src\celldouble.cpp
+	"CellDouble.h"
+	"SpreadSheet.h"
+
+1560373476 c:\users\tsveti\desktop\oop\praktikum\spreadsheet\include\celldouble.h
+	<iostream>
+	"Cell.h"
+	<sstream>
+
+1560160568 source:c:\users\tsveti\desktop\oop\praktikum\spreadsheet\src\cellint.cpp
+	"CellInt.h"
+
+1560160568 c:\users\tsveti\desktop\oop\praktikum\spreadsheet\include\cellint.h
+	"Cell.h"
+
+1560283809 source:c:\users\tsveti\desktop\oop\praktikum\spreadsheet\src\cellstring.cpp
+	"CellString.h"
+	"SpreadSheet.h"
+
+1560277734 c:\users\tsveti\desktop\oop\praktikum\spreadsheet\include\cellstring.h
+	"Cell.h"
+	<string>
+
+1560286931 source:c:\users\tsveti\desktop\oop\praktikum\spreadsheet\src\formula.cpp
+	"Formula.h"
+	"SpreadSheet.h"
+
+1560278885 c:\users\tsveti\desktop\oop\praktikum\spreadsheet\include\formula.h
+	"Cell.h"
+
+1560373148 source:c:\users\tsveti\desktop\oop\praktikum\spreadsheet\src\spreadsheet.cpp
+	"SpreadSheet.h"
+	"Formula.h"
+
+1560375619 c:\users\tsveti\desktop\oop\praktikum\spreadsheet\include\spreadsheet.h
+	"Cell.h"
+	"CellDouble.h"
+	"CellString.h"
+	"Formula.h"
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+
+1560375857 source:c:\users\tsveti\desktop\oop\praktikum\spreadsheet\src\interface.cpp
+	"Interface.h"
+
+1560348749 c:\users\tsveti\desktop\oop\praktikum\spreadsheet\include\interface.h
+	"SpreadSheet.h"
+
